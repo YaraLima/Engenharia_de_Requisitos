@@ -1,4 +1,4 @@
-# Contexto do Projeto: Sistema de Gestão de Atendimento
+# Introdução do Projeto: Sistema de Gestão de Atendimento
 
 ## Introdução
 Este projeto tem como objetivo documentar a engenharia de requisitos para um Sistema de Gestão de Atendimento, focado em organizar, controlar e otimizar os processos de atendimento ao cliente em uma empresa de serviços técnicos.
