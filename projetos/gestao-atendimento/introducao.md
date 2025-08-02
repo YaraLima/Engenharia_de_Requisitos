@@ -26,9 +26,9 @@ A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, a
 - [Requisitos](./requisitos/visao-geral.md)
 - [Modelagem](./modelagem/visao-geral.md)
 - [Validação](./validacao/visao-geral.md)
-- [Atendimento Técnico](./atendimento-tecnico/visao-geral.md)
-- [Templates](./templates/visao-geral.md)
-- [Glossário Técnico](./glossario/visao-geral.md)
+- [Atendimento Técnico](./projetos/atendimento-tecnico/visao-geral.md)
+- [Templates](./projetos/templates/visao-geral.md)
+- [Glossário Técnico](./projetos/glossario/visao-geral.md)
 
 
 ---
