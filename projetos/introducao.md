@@ -23,12 +23,12 @@ A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, a
 ## Estrutura do Projeto
 
 - [Elicitação](./gestao-atendimento/elicitacao/visao-geral.md)
-- [Requisitos](./requisitos/visao-geral.md)
-- [Modelagem](./modelagem/visao-geral.md)
-- [Validação](./validacao/visao-geral.md)
+- [Requisitos](./gestao-atendimento/requisitos/visao-geral.md)
+- [Modelagem](./gestao-atendimento/modelagem/visao-geral.md)
+- [Validação](./gestao-atendimento/validacao/visao-geral.md)
 - [Atendimento Técnico](./atendimento-tecnico/visao-geral.md)
 - [Templates](./templates/visao-geral.md)
-- [Glossário Técnico](./projetos/glossario/visao-geral.md)
+- [Glossário Técnico](./glossario/visao-geral.md)
 
 
 ---
