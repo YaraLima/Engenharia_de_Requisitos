@@ -20,6 +20,14 @@ A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, a
 - Facilitar a comunicação entre atendentes, técnicos e clientes.
 - Gerar relatórios gerenciais para análise de desempenho.
 
+## Estrutura do Projeto
+
+- [Contexto](./contexto.md)
+- [Elicitação](./elicitacao/README.md)
+- [Requisitos](./requisitos/README.md)
+- [Modelagem](./modelagem/README.md)
+- [Validação](./validacao/README.md)
+
 ---
 
 Este documento é o ponto de partida para a elicitação, análise e documentação dos requisitos do sistema.
