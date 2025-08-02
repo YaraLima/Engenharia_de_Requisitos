@@ -4,7 +4,7 @@
 Este projeto tem como objetivo documentar a engenharia de requisitos para um Sistema de Gestão de Atendimento, focado em organizar, controlar e otimizar os processos de atendimento ao cliente em uma empresa de serviços técnicos.
 
 ## Cenário
-A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, atendendo clientes via múltiplos canais, como telefone, chat, e-mail e atendimento presencial. O sistema visa centralizar os chamados, facilitar o acompanhamento dos tickets, controlar prazos e priorizar atendimentos conforme o nível de urgência e tipo de serviço.
+A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, atendendo clientes via múltiplos canais, como telefone, chat e e-mail. O sistema visa centralizar os chamados, facilitar o acompanhamento dos tickets, controlar prazos e priorizar atendimentos conforme o nível de urgência e tipo de serviço.
 
 ## Stakeholders
 - **Clientes**: solicitam suporte e acompanhamento dos chamados.
