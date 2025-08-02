@@ -22,7 +22,7 @@ A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, a
 
 ## Estrutura do Projeto
 
-- [Elicitação](/elicitacao/visao-geral.md)
+- [Elicitação](./elicitacao/visao-geral.md)
 - [Requisitos](./requisitos/visao-geral.md)
 - [Modelagem](./modelagem/visao-geral.md)
 - [Validação](./validacao/visao-geral.md)
