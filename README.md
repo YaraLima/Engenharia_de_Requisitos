@@ -52,3 +52,7 @@
 
 - 🔄 **Este repositório está em constante atualização.**  
 *Conteúdos, templates e projetos de estudo estão sendo acrescentados gradualmente durante o processo de aprendizado e preparação para certificação.*
+
+## 👩‍💻 Autora
+- Desenvolvido por Yara Lima.
+
