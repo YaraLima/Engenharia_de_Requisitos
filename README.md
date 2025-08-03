@@ -48,8 +48,8 @@
 
 ## 📌 Aviso Importante
 
--⚠️ **Este projeto é uma simulação para estudo e aplicação das boas práticas da Engenharia de Requisitos, baseado no modelo SRS IEEE 830.**  
+- ⚠️ **Este projeto é uma simulação para estudo e aplicação das boas práticas da Engenharia de Requisitos, baseado no modelo SRS IEEE 830.**  
 Não representa um sistema real em produção, mas uma documentação fictícia para fins de aprendizado e portfólio.  
 
 - 🔄 ** Este repositório está em constante atualização.**
-*Conteúdos, templates e projetos de estudo estão sendo acrescentados gradualmente durante o processo de aprendizado e preparação para certificação.*
+Conteúdos, templates e projetos de estudo estão sendo acrescentados gradualmente durante o processo de aprendizado e preparação para certificação.
