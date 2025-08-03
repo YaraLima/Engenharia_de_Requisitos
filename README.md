@@ -1,7 +1,7 @@
 # Portfólio Técnico — Engenharia de Requisitos & Processos  
 ### Yara Lima
 
-> Profissional trilíngue em Tecnologia da Informação, com sólida experiência em suporte técnico e atendimento ao cliente. Especialista em resolução de problemas, documentação de processos e comunicação entre áreas técnicas e de negócios. Em transição para Engenharia de Requisitos e Processos, com foco em agregar valor ao produto, à equipe e aos usuários finais. Estudante para a certificação CPRE-FL (IREB) — com projeto próprio em andamento.
+> Profissional trilíngue em Tecnologia da Informação, com sólida experiência em suporte técnico e atendimento ao cliente. Especialista em resolução de problemas, documentação de processos e comunicação entre áreas técnicas e de negócios. Em transição para Engenharia de Requisitos e Processos, com foco em agregar valor ao produto, à equipe e aos usuários finais. Estudante para a certificação CPRE-FL (IREB) — projeto em andamento para aplicação prática das metodologias e padrões reconhecidos pela certificação.
 
 ---
 
