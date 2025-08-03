@@ -1,3 +1,7 @@
+> 💡 **Aviso:**  
+> Este projeto é uma simulação prática para estudo e aplicação das boas práticas da Engenharia de Requisitos, baseado no modelo SRS IEEE 830.  
+> Não representa um sistema real em produção, mas uma documentação fictícia para fins de aprendizado e portfólio.
+
 # Portfólio Técnico — Engenharia de Requisitos & Processos  
 ### Yara Lima
 
