@@ -1,32 +1,31 @@
-# Introdução do Projeto: Sistema de Gestão de Atendimento
+# Introdução do Projeto: Sistema de Ouvidoria
 
 ## Introdução
-Este projeto tem como objetivo documentar a engenharia de requisitos para um Sistema de Gestão de Atendimento, focado em organizar, controlar e otimizar os processos de atendimento ao cliente em uma empresa de serviços técnicos.
+Este projeto tem como objetivo documentar a engenharia de requisitos para um Sistema de Ouvidoria, voltado para o recebimento, análise e encaminhamento de manifestações de clientes e cidadãos em uma organização.
 
 ## Cenário
-A empresa atua no segmento de suporte técnico para dispositivos eletrônicos, atendendo clientes via múltiplos canais, como telefone, chat e e-mail. O sistema visa centralizar os chamados, facilitar o acompanhamento dos tickets, controlar prazos e priorizar atendimentos conforme o nível de urgência e tipo de serviço.
+Organizações públicas e privadas frequentemente recebem sugestões, reclamações, denúncias e elogios por parte de seus usuários. O sistema proposto tem como foco centralizar essas manifestações, garantir transparência no tratamento, organizar os fluxos de resposta e fornecer relatórios gerenciais que apoiem a tomada de decisão e melhorias nos serviços.
 
 ## Stakeholders
-- **Clientes**: solicitam suporte e acompanhamento dos chamados.
-- **Atendentes**: profissionais responsáveis por registrar, acompanhar e resolver os chamados.
-- **Supervisores**: monitoram os indicadores de desempenho e garantem a qualidade do atendimento.
-- **Equipe técnica**: recebe os chamados encaminhados para execução e solução dos problemas.
-- **Gestores**: definem políticas e metas de atendimento, analisam relatórios e aprovam melhorias no processo.
+- **Manifestantes**: cidadãos ou clientes que registram suas manifestações.
+- **Atendentes/Ouvidores**: responsáveis por receber, categorizar e encaminhar as manifestações.
+- **Gestores**: analisam relatórios, acompanham prazos e asseguram que as manifestações sejam tratadas conforme as diretrizes institucionais.
+- **Áreas Responsáveis**: setores internos da organização que recebem as manifestações encaminhadas para resposta ou providências.
 
 ## Objetivos do Sistema
-- Centralizar o registro dos chamados de atendimento.
-- Controlar o status e prazos dos tickets.
-- Priorizar os chamados com base em critérios definidos (urgência, tipo de cliente, SLA).
-- Facilitar a comunicação entre atendentes, técnicos e clientes.
-- Gerar relatórios gerenciais para análise de desempenho.
+- Centralizar o registro de manifestações em um único sistema.
+- Garantir o sigilo, quando necessário, e a rastreabilidade do tratamento dado à manifestação.
+- Controlar prazos de resposta e status dos encaminhamentos.
+- Fornecer canais acessíveis e amigáveis para o registro das manifestações.
+- Disponibilizar relatórios gerenciais e estatísticos para apoio à gestão e melhoria contínua dos serviços.
 
 ## Estrutura do Projeto
 
-- [Elicitação](./gestao-atendimento/elicitacao/visao-geral.md)
-- [Requisitos](./gestao-atendimento/requisitos/visao-geral.md)
-- [Modelagem](./gestao-atendimento/modelagem/visao-geral.md)
-- [Validação](./gestao-atendimento/validacao/visao-geral.md)
-- [Atendimento Técnico](./atendimento-tecnico/visao-geral.md)
+- [Elicitação](./gestao-ouvidoria/elicitacao/visao-geral.md)
+- [Requisitos](./gestao-ouvidoria/requisitos/visao-geral.md)
+- [Modelagem](./gestao-ouvidoria/modelagem/visao-geral.md)
+- [Validação](./gestao-ouvidoria/validacao/visao-geral.md)
+- [Ouvidoria](./ouvidoria/visao-geral.md)
 - [Templates](./templates/visao-geral.md)
 - [Glossário Técnico](./glossario/visao-geral.md)
 
