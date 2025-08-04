@@ -21,14 +21,13 @@ Organizações públicas e privadas frequentemente recebem sugestões, reclamaç
 
 ## Estrutura do Projeto
 
-- [Elicitação](./gestao-ouvidoria/elicitacao/visao-geral.md)
-- [Requisitos](./gestao-ouvidoria/requisitos/visao-geral.md)
-- [Modelagem](./gestao-ouvidoria/modelagem/visao-geral.md)
-- [Validação](./gestao-ouvidoria/validacao/visao-geral.md)
-- [Ouvidoria](./ouvidoria/visao-geral.md)
+- [Elicitação](./gestao-atendimento/elicitacao/visao-geral.md)
+- [Requisitos](./gestao-atendimento/requisitos/visao-geral.md)
+- [Modelagem](./gestao-atendimento/modelagem/visao-geral.md)
+- [Validação](./gestao-atendimento/validacao/visao-geral.md)
+- [Atendimento Técnico](./atendimento-tecnico/visao-geral.md)
 - [Templates](./templates/visao-geral.md)
 - [Glossário Técnico](./glossario/visao-geral.md)
-
 
 ---
 
