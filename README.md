@@ -33,8 +33,7 @@
 ## 🎓 Certificações
 
 - 🧪 **CPRE-FL (Certified Professional for Requirements Engineering – Foundation Level)**  
-  Em andamento — Prova agendada para 01/08/25.  
-  Estudo baseado no Handbook oficial + projeto prático (ver acima).
+  Em andamento — Estudo baseado no Handbook oficial + projeto prático (ver acima).
 
 ---
 
