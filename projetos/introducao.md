@@ -25,7 +25,7 @@ Organizações públicas e privadas frequentemente recebem sugestões, reclamaç
 - [Requisitos](./gestao-atendimento/requisitos/visao-geral.md)
 - [Modelagem](./gestao-atendimento/modelagem/visao-geral.md)
 - [Validação](./gestao-atendimento/validacao/visao-geral.md)
-- [Atendimento Técnico](./atendimento-tecnico/visao-geral.md)
+- [Processo de Ouvidoria](./atendimento-tecnico/visao-geral.md)
 - [Templates](./templates/visao-geral.md)
 - [Glossário Técnico](./glossario/visao-geral.md)
 
