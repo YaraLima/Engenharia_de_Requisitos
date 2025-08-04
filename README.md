@@ -24,7 +24,7 @@
 | Projeto | Descrição | Área |
 |--------|-----------|------|
 | [Sistema de Ouvidoria](./projetos/introducao.md) | Projeto autoral baseado no syllabus da certificação CPRE-FL, contendo contexto, elicitação, requisitos, modelagem e validação. | Engenharia de Requisitos |
-| [Processo de Atendimento Técnico](./projetos/atendimento-tecnico/visao-geral.md) | Documento baseado em experiência real: mapeamento de processo de suporte técnico, pontos de melhoria e proposta TO-BE. | Processos |
+| [Processo de Ouvidoria](./projetos/atendimento-tecnico/visao-geral.md) | Estudo de processo inspirado em sistemas de ouvidoria: fluxo de atendimento, identificação de gargalos e proposta de melhoria TO-BE. | Processos |
 | [Template SRS](./projetos/templates/visao-geral.md) | Template de especificação de requisitos baseado no padrão IEEE 830, adaptado para projetos reais. | Documentação Técnica |
 | [Glossário Técnico](./projetos/glossario/visao-geral.md) | Glossário com termos recorrentes em engenharia de requisitos, para facilitar a comunicação técnica. | Apoio |
 
